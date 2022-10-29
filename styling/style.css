@@ -1,0 +1,28 @@
+.big-font {
+    font-size: 110%;
+    font-weight: 600;
+}
+
+.small-font {
+    font-size: 90%;
+}
+
+.white-bg {
+    background-color: #ffffff;
+}
+
+.grad-bg {
+    background-image: linear-gradient(to right, #0b2952, #092d5f);
+}
+
+.grad-button {
+    background-image: linear-gradient(to right, #2659a1, #4087eb);
+}
+
+.blue-text {
+    color: #092d5f;
+}
+
+.red-text {
+    color: red;
+}
