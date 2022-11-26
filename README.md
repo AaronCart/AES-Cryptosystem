@@ -2,4 +2,4 @@
 Basic Website for Encrypting and Decrypting Plaintext using Advanced Encryption Standard (AES)<br />
 Uses Javascript and Bootstrap 4<br />
 Link to Website:
-http://aaroncart.infinityfreeapp.com/AEM-Cryptosystem/index.html
+https://aaron-cart.000webhostapp.com/AES-Crypto/index.html
